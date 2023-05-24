@@ -1,0 +1,1 @@
+yolo task=detect mode=train model=D:/YOLOv8/yolov8s.yaml  data=D:/YOLOv8/score_data.yaml epochs=10 batch=8 imgsz=640 pretrained=False optimizer=SGD
